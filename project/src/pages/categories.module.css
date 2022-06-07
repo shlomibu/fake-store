@@ -1,0 +1,21 @@
+.cat{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 70%;
+    margin: auto;
+}
+.cat .item{
+    cursor: pointer;
+    max-width: 200px;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.h1{
+    margin: auto;
+}
+.allCat{
+    background-color: white;
+}
